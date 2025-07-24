@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ip_zabbix_server="192.168.1.36"
+ip_zabbix_server="192.168.x.x"
 hostname=$(hostname)
 
 sudo apt update && sudo apt upgrade -y
