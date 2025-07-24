@@ -1,6 +1,6 @@
 #/bin/bash
 
-ip_web_server="192.168.1.28"
+ip_web_server="192.168.x.x"
 domain_name="huybadpi.site"
 path_ssl_certificate="~/Download/huybadpi.site_ssl_certificate.cer"
 path_intermediate1="~/Download/intermediate1.cer"
