@@ -1,9 +1,9 @@
 #!/bin/bash
 
-ip_database_server="192.168.1.202"
+ip_database_server="192.168.x.x"
 name_of_database="zabbix"
-username_of_database="huyzabbix"
-password_of_database="huyzabbix"
+username_of_database="xxx"
+password_of_database="xxx"
 
 sudo apt update && sudo apt upgrade -y
 
