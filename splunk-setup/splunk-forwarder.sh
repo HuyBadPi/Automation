@@ -1,10 +1,10 @@
 #!/bin/bash
 
-SPLUNK_SERVER_IP="192.168.1.31"
+SPLUNK_SERVER_IP="192.168.x.x"
 SPLUNK_SERVER_PORT="9997"
 NAME_MACHINE=$(cat /etc/hostname)
 username="admin"
-password="hhhuuuyyy"
+password="xxx"
 
 # update and upgrade the system
 sudo apt update -y && sudo apt upgrade -y
