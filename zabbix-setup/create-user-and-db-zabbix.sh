@@ -1,8 +1,8 @@
 #!/bin/bash
 
-ip_zabbix_server="192.168.1.36"
-username="huyzabbix"
-password="huyzabbix"
+ip_zabbix_server="192.168.x.x"
+username="xxx"
+password="xxx"
 name_of_database="zabbix"
 
 echo "Enter MySQL root password:"
